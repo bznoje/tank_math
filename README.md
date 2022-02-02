@@ -1,4 +1,6 @@
 # tank_math
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bznoje/tank_math/HEAD)
+
 Math for API MPMS 2.2B calculations
 
-Repository used to feed the docker image for review
+Repository used to feed the Binder docker image for review
